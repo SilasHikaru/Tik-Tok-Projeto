@@ -1,2 +1,5 @@
-# Tik-Tok-Project
-Este projeto é um clone do Tik Tok, ele foi construído com react, integrando com o firebase.
+### Projeto "TikTok Clone" Jornada Dev EBAC
+
+Link da aplicação:
+https://tiktok---jornada-67795.web.app/
+
